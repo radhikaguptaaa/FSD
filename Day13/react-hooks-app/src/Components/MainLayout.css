@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+
+    gap: 20px ;
+    list-style-type:none;
+    box-shadow: 5px 5px 5px;
+}
+li{
+    padding: 10px;
+    border-radius: 5px;
+}
+li  a{
+    text-decoration: none;
+    color: aliceblue;
+}
