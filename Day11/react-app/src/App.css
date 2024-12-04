@@ -1,0 +1,16 @@
+h1{
+  background-color: white;
+  font-size: 30px;
+  
+  }
+  h2{
+    background-color: violet;
+    color: wheat;
+    font-size: 15px;
+    border-radius: 10px;
+  }
+  #disp{
+    background-color: white;
+    font-size: 20px;
+    border: 10px;
+  }
